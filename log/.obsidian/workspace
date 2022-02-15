@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "8dc310aaae7cad6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8861fd0aed7afb66",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1.26.22.gus_16-19.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bd121639c2de827e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec39cbe620f0c09e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8744ef2dcc4b142e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "842f7f730682f5eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7442cb1c6823e007",
+    "type": "split",
+    "children": [
+      {
+        "id": "27cdf7611d83acfc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fccdfe2601c3ebfa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1.26.22.gus_16-19.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8861fd0aed7afb66",
+  "lastOpenFiles": [
+    "1.26.22.gus_16-19.md",
+    "2.11.22.esr_6-7.md",
+    "2.11.22.nopest_25.md",
+    "2.11.22.pest_26.md"
+  ]
+}
